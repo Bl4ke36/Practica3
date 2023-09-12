@@ -1,0 +1,41 @@
+commit ee324ab9b1bec473338fa259fcec0bbe0efe6e53
+Author: Rey <cdmx2218@amerike.edu.mx>
+Date:   Thu Aug 31 09:36:11 2023 -0600
+
+    Agregando enlace y contenido de la practica 5
+
+commit 579e8c4fcb8cb199ae25fa1e0c9f2cfc20cd83c8
+Author: Bl4ke36 <125499524+Bl4ke36@users.noreply.github.com>
+Date:   Thu Aug 31 02:36:49 2023 -0600
+
+    Agregando licencia al repositorio
+
+commit 39e55692daa768a6fe9c25694c872fd03281f3fd
+Author: Bl4ke36 <3du4rdo.pv@gmail.com>
+Date:   Thu Aug 31 02:33:22 2023 -0600
+
+    Creando archivo .gitignore
+
+commit 73adf87123871c030863aa21eff70464077c4e4a
+Author: Mario Pérez <3du4rdo.pv@gmail.com>
+Date:   Tue Aug 29 12:28:56 2023 -0600
+
+    Agregando mi foto2
+
+commit c98e2bd64c4bfc1f711012395d8f2d5e6091fc2e
+Author: Mario Pérez <3du4rdo.pv@gmail.com>
+Date:   Tue Aug 29 12:26:51 2023 -0600
+
+    Agregando mi foto
+
+commit a6f60a094e4efe5d9350ff3e6a59a03f247b5811
+Author: Mario Pérez <3du4rdo.pv@gmail.com>
+Date:   Tue Aug 29 12:24:32 2023 -0600
+
+    Agregando mi edad
+
+commit 44076292b6a6d32a441d44285aa2dee6b0cc1a47
+Author: Mario Pérez <3du4rdo.pv@gmail.com>
+Date:   Tue Aug 29 12:17:39 2023 -0600
+
+    Primer commit
