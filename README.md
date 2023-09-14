@@ -16,8 +16,9 @@ Edad: 17
 
     Secuencia de comandos:
     ```bash
-    git config --global user.name "Jonathan MirCha"
-    git config --global user.email jonmircha@gmail.com
+    git config --global user.name "Tu-Nombre"
+    # el email tiene que ser el que esta registrado en tu cuenta de GitHub
+    git config --global user.email example@gmail.com
     git config --global user.ui true
     git config --global init.defaultBranch main
     git config --list
